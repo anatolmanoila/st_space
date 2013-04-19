@@ -1,0 +1,18 @@
+Goal:
+I want to make an app that serves my needs - when I build an app.
+
+Walkthrough:
+Client-Side:
+- It has to be an interface, composed from panels,
+ upon which I could look and get information I need about the questions that I asked for.
+ For ex.
+   When I build a sotware product or app I need to be an online platform that separates design space and development space.
+   I need articles from books hanged up on the walls, (thus panels in this app) where I could look and get the relevant good article that I saved some time ago when I was reading through a book, that this is the right answer to do this kind of task, for this job.
+
+Characteristics:
+
+ - I need the page that I'm looking at to be light, not overwhelming with the info. The eye could focus on one or two particular items and just it. To stay focused upon what you want to solve.
+    The interface should give you enougth clear information for what you're looking for.
+
+
+
